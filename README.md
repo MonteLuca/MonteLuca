@@ -40,7 +40,9 @@ A **programming** **lover** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=MonteLuca&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MonteLuca&count_private=true&theme=radical" alt="MonteLuca" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteLuca&count_private=true&theme=radical" alt="MonteLuca" />
+
 ----
+
 Credit: [MonteLuca]([https://github.com/Monteluca])
 
 Last Edited on: 15/07/2022
