@@ -1,28 +1,18 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+# Oh Hi! I'm Luca Monteleone
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back-End and other areas.
+
+<a href="https://www.linkedin.com/in/luca-monteleone/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-
-
 
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+a **programming** **lover** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" />
 
 **About Me!**
 
