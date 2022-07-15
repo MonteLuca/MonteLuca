@@ -9,18 +9,18 @@ I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back
 <br />
 <br />
 
-a **programming** **lover** 🚀.
+A **programming** **lover** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 👨🏽‍💻 I am studying at the Manuel Belgrano Institute.
+- 🌱 I am currently exploring JAVA, a bit of Database, and a bit of Front-End.
+- 🤔 I like to learn more about new languages and programs
+- 💬 I like to help, so do not hesitate to contact me
+- 📫 Email me at [lucamonteleone546@gmail.com](mailto:lucamonteleone546@gmail.com).
 
 
 
