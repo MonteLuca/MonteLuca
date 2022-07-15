@@ -26,7 +26,7 @@ A **programming** **lover** 🚀.
 
 **Languages and Tools:**  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white),![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
