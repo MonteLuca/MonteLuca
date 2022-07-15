@@ -11,7 +11,7 @@ I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back
 
 A **programming** **lover** 🚀.
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"</>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
