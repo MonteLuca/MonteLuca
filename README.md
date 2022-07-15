@@ -3,7 +3,7 @@
 I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back-End and other areas.
 
 <a href="https://www.linkedin.com/in/luca-monteleone/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
 
 <br />
