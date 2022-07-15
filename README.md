@@ -6,12 +6,12 @@ I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back
   <img align="left" alt="MonteLuca LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 A **programming** **lover** 🚀.
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"</>
 
 **About Me!**
 
