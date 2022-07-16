@@ -3,13 +3,13 @@
 I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back-End and other areas.
 
 <a href="https://www.linkedin.com/in/luca-monteleone/">
-  <img align="left" alt="MonteLuca LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+  <img align="left" alt="MonteLuca LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
 <br/>
 
-A **programming** **lover** 
+A programming lover
 
 **About Me!**
 
@@ -18,8 +18,6 @@ A **programming** **lover**
 - 🤔 I like to learn more about new languages and programs
 - 💬 I like to help, so do not hesitate to contact me
 - 📫 Email me at [lucamonteleone546@gmail.com](mailto:lucamonteleone546@gmail.com).
-
-
 
 **Languages and Tools:**  
 
