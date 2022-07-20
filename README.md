@@ -15,8 +15,6 @@ I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back
 
 ----
 
-<br/>
-<br/>
 
 **About Me!**
 
