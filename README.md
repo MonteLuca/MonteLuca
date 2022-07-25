@@ -1,16 +1,12 @@
 # Oh Hi! I'm Luca Monteleone
 
-I'm from Mendoza,Argentina, I'm a programming student, I'm specializing for Back-End and other areas.
+I'm from Mendoza, Argentina. I'm a programming student. I'm specializing for Back-End and other areas.
 
 <a href="https://www.linkedin.com/in/luca-monteleone/">
   <img align="left" alt="MonteLuca LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
 
 <h3>A programming lover</h3>
 
