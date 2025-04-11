@@ -10,7 +10,7 @@ Full Stack Developer based in Mendoza, Argentina. I specialize in backend develo
 
 <h3>A programming lover</h3>
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRwOXpka3V5bXNpb3g0ZWRobWYyNTVqcjJsbnFiMHJ0eDh2dGo0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="margin-top:10px">/>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRwOXpka3V5bXNpb3g0ZWRobWYyNTVqcjJsbnFiMHJ0eDh2dGo0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="margin-top:10px; width:250px;" />
 
 ----
 
