@@ -1,6 +1,6 @@
 # Oh Hi! I'm Luca Monteleone
 
-I'm from Mendoza, Argentina. I'm a programming student. I'm specializing for Back-End and other areas.
+Full Stack Developer based in Mendoza, Argentina. I specialize in backend development with Java and frontend development with Angular. I have experience working with various companies as well as independently as a freelancer.
 
 <a href="https://www.linkedin.com/in/luca-monteleone/">
   <img align="left" alt="MonteLuca LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,16 +17,15 @@ I'm from Mendoza, Argentina. I'm a programming student. I'm specializing for Bac
 
 **About Me!**
 
-- 👨🏽‍💻 I am studying at the Manuel Belgrano Institute.
-- 🌱 I am currently exploring JAVA, a bit of Database, and a bit of Front-End.
+- 🔭 I’m currently working on Benza Value
+- 🌱 I’m currently learning Python
 - 🤔 I like to learn more about new languages and programs
 - 💬 I like to help, so do not hesitate to contact me
 - 📫 Email me at [lucamonteleone546@gmail.com](mailto:lucamonteleone546@gmail.com).
 
 **Languages and Tools:**  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white),![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white),[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
